@@ -8,7 +8,7 @@ Problem Solution:
 using namespace std;
 
 int main() {
-    int m,n,x,y,i,j;
+    int m,n,i,j;
     cin>>n>>m;
     
     int c[m];
