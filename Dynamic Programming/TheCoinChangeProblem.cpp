@@ -1,3 +1,5 @@
+Author: Kadaslki
+
 Problem Description: https://www.hackerrank.com/challenges/coin-change
 
 Problem Solution:
